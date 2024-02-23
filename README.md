@@ -1,0 +1,1 @@
+statics implementation with Python
